@@ -12,7 +12,7 @@ This is my first small project while learning front-end development and Electron
 - Highlights current date.
 - Simple hover effects for interaction.
 - Fully static, lightweight, and beginner-friendly.
-
+```
 beginner-calendar/
   index.html        # Main HTML file
   main.js           # Electron main process
@@ -22,8 +22,7 @@ beginner-calendar/
   styles/           # CSS files
   assets/           # Images/icons/screenshots
   node_modules/     # Ignored in GitHub
-
-
+```
 *What I Learned
 
 -Manipulating the DOM to display dates dynamically.
