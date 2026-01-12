@@ -22,7 +22,8 @@ beginner-calendar/
 ├─ package-lock.json
 ├─ styles/           # CSS files
 ├─ assets/           # Images/icons/screenshots
-└─ node_modules/     # Ignored in GitHub
+└─ node_modules/     
+
 
 
 *What I Learned
