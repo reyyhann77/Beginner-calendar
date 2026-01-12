@@ -14,14 +14,16 @@ This is my first small project while learning front-end development and Electron
 - Fully static, lightweight, and beginner-friendly.
 ```
 beginner-calendar/
-  index.html        # Main HTML file
-  main.js           # Electron main process
-  script.js         # Renderer JS
-  package.json      # Dependencies and scripts
-  package-lock.json
-  styles/           # CSS files
-  assets/           # Images/icons/screenshots
-  node_modules/     # Ignored in GitHub
+│
+├─ index.html        # Main HTML file
+├─ main.js           # Electron main process
+├─ script.js         # Renderer JS
+├─ package.json      # Dependencies and scripts
+├─ package-lock.json
+├─ styles/           # CSS files
+├─ assets/           # Images/icons/screenshots
+└─ node_modules/     # Ignored in GitHub
+
 ```
 *What I Learned
 
